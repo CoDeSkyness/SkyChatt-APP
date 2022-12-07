@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656229686331",
+    "project_id": "sosyalmedyabasic",
+    "storage_bucket": "sosyalmedyabasic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656229686331:android:fc9d421520d467ac1d901e",
+        "android_client_info": {
+          "package_name": "com.example.fotopaylasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656229686331-ft0n0v72r244oc9c6psa6c017cd8337o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy67ru14CLpiZ4quUk8peP_wBJguSlOzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656229686331-ft0n0v72r244oc9c6psa6c017cd8337o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
